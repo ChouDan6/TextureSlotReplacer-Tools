@@ -1,6 +1,7 @@
 # TextureSlotReplacer-Tools
-TSR作者：https://gamebanana.com/members/2987570  
-TSR-ORFix-converter.pyw作者：me & Gemini 3 pro  
+TSR作者: https://gamebanana.com/members/2987570  
+         https://gamebanana.com/blogs/21076
+TSR-ORFix-converter.pyw作者: me & Gemini 3 pro  
 
 Resource\TSR\Diffuse = ref ResourceDiffuse  
 Resource\TSR\Lightmap = ref ResourceLightmap  
