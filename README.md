@@ -3,6 +3,7 @@ TSR作者:
 https://gamebanana.com/members/2987570  
 https://gamebanana.com/blogs/21076  
 TSR-ORFix-converter.pyw作者: me & Gemini 3 pro  
+视频演示:【透明切换短暂发绿简单修复】 https://www.bilibili.com/video/BV1qv2jB4EuT/?share_source=copy_web&vd_source=d1c56404ab6d1982c7bfcecbc9dfb8e3  
 
 Resource\TSR\Diffuse = ref ResourceDiffuse  
 Resource\TSR\Lightmap = ref ResourceLightmap  
